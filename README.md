@@ -46,7 +46,7 @@ Follow instructions on [scheduler card](https://github.com/Vioneta/scheduler-car
    - Using VPS:
      In the VPS panel, there should be an notification when a new version is available. Follow the instructions within VPS to update the installation files.
    - Manually:
-     Download the [latest release](https://github.com/Vioneta/vioneta-scheduler-integration/releases/latest) as a zip file and extract it into the custom_components folder in your Vioneta installation, overwriting the previous installation.
+     Download the [latest release](https://github.com/Vioneta/scheduler-vioneta-integration/releases/latest) as a zip file and extract it into the custom_components folder in your Vioneta installation, overwriting the previous installation.
 2. Restart Vioneta to load the changes.
 
 **To see which version is installed:**
